@@ -1,0 +1,5 @@
+*.pp linguist-language=MSBuild
+*.proj linguist-language=MSBuild
+*.props linguist-language=MSBuild
+*.targets linguist-language=MSBuild
+
